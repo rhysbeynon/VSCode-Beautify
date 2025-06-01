@@ -28,10 +28,10 @@ You can install these extensions either:
 - Through the VS Code Extensions marketplace (search for each extension name)
 - Or via command line:
 ```bash
-code --install-extension be5invis.vscode-custom-css
+code --install-extension subframe7536.custom-ui-style
 code --install-extension davidbwaters.macos-modern-theme
 code --install-extension PKief.material-icon-theme
-code --install-extension iCrawl.vscode-tailwindcss
+code --install-extension chanzehua.cursor-dark-theme
 code --install-extension eyhn.vscode-vibrancy
 code --install-extension akamud.vscode-theme-onelight
 ```
