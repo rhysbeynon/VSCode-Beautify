@@ -3,8 +3,11 @@
 # VSCode-Beautify
 A MacOS styled VSCode config for native-like visuals and inline title bar build for, and working on, the latest version of vscode.
 
-  <img src="Dark.png" width="45%" alt="VSCode Beautify Screenshot 1">
-  <img src="Light.png" width="45%" alt="VSCode Beautify Screenshot 2">
+| Description | Preview |
+|-------------|---------|
+| **Dark mode:** | <img src="Dark.png" width="400" alt="VSCode Beautify Dark Mode"> |
+| **Light mode:** | <img src="Light.png" width="400" alt="VSCode Beautify Light Mode"> |
+
 </div>
 
 ## How to install
