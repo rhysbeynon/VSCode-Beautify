@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="Features.png" width="75%" alt="VSCode Beautify Feature showcase">
+
 # VSCode-Beautify
 A MacOS styled VSCode config for native-like visuals and inline title bar build for, and working on, the latest version of vscode.
 
