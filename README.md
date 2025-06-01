@@ -1,13 +1,3 @@
-<style>
-* {
-  font-family: "SF Mono", Monaco, "Cascadia Code", "Roboto Mono", Consolas, "Courier New", monospace !important;
-}
-img {
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
-  border-radius: 8px;
-}
-</style>
-
 <div align="center">
 
 # VSCode-Beautify

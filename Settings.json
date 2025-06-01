@@ -168,7 +168,9 @@
     "sideBarTitle.background": "#00000000",
     "terminal.background": "#00000000",
     "list.dropBackground": "#ffffff15",
-    "tree.dropBackground": "#ffffff15"
+    "tree.dropBackground": "#ffffff15",
+    "sideBarSectionHeader.foreground": "#ffffffbf",
+    "sideBarSectionHeader.background": "#0000005c"
   },
   "window.autoDetectColorScheme": true,
   "workbench.statusBar.visible": false,
