@@ -31,7 +31,7 @@ You can install these extensions either:
 code --install-extension subframe7536.custom-ui-style
 code --install-extension davidbwaters.macos-modern-theme
 code --install-extension PKief.material-icon-theme
-code --install-extension chanzehua.cursor-dark-theme
+code --install-extension chenzehua.cursor-dark-theme
 code --install-extension eyhn.vscode-vibrancy
 code --install-extension akamud.vscode-theme-onelight
 ```
