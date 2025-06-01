@@ -162,18 +162,32 @@
 
     ".editor .title.sticky": {
       "box-shadow": "none !important"
+    },
+
+    // Remove selection border from sidebar background
+    ".part.sidebar": {
+      "outline": "none !important"
+    },
+    
+    ".part.sidebar .content": {
+      "outline": "none !important"
     }
   },
  "workbench.colorCustomizations": {
-    "sideBarTitle.background": "#00000000",
-    "list.dropBackground": "#ffffff15",
-    "tree.dropBackground": "#ffffff15",
-    "badge.background": "#DA493A",
-    "badge.foreground": "#ffffff",
-    "activityBarBadge.background": "#DA493A",
-    "activityBarBadge.foreground": "#ffffff",
-    "terminal.background": "#00000000"
-  },
+  "sideBarTitle.background": "#00000000",
+  "list.dropBackground": "#ffffff15",
+  "tree.dropBackground": "#ffffff15",
+  "badge.background": "#DA493A",
+  "badge.foreground": "#ffffff",
+  "activityBarBadge.background": "#DA493A",
+  "activityBarBadge.foreground": "#ffffff",
+  "menu.selectionBackground": "#2483e8",
+  "menu.selectionForeground": "#ffffff",
+  "button.background": "#2483e8",
+  "button.foreground": "#ffffff",
+  "button.hoverBackground": "#1e6cc7",
+  "terminal.background": "#00000000"
+},
   "[Cursor Dark]": {
     "sideBarStickyScroll.background": "#1a1a1a",
     "sideBarSectionHeader.foreground": "#ffffffbf",
@@ -181,7 +195,7 @@
   },
   "window.autoDetectColorScheme": true,
   "vscode_vibrancy.opacity": -1,
-  "vscode_vibrancy.theme": "Light (Only Subbar)",
+  "vscode_vibrancy.theme": "Dark (Only Subbar)",
   "redhat.telemetry.enabled": false,
   "workbench.navigationControl.enabled": false,
   "window.commandCenter": false,
@@ -200,7 +214,7 @@
   "terminal.integrated.smoothScrolling": true,
   "editor.cursorBlinking": "smooth",
   "workbench.preferredDarkColorTheme": "Cursor Dark",
-  "workbench.colorTheme": "Cursor Dark",
+  "workbench.colorTheme": "Default Dark+",
   "workbench.productIconTheme": "macos-modern",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.statusBar.visible": false,
