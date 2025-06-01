@@ -5,8 +5,8 @@
 // - macos-modern
 // - Material Icon Theme
 // - Cursor Theme
+// - Atom One Light Theme
 // - vscode-vibrancy
-// - Cursor Theme
 {
   "window.titleBarStyle": "native",
   "custom-ui-style.electron": {
