@@ -164,29 +164,24 @@
       "box-shadow": "none !important"
     }
   },
-  "workbench.colorCustomizations": {
+ "workbench.colorCustomizations": {
     "sideBarTitle.background": "#00000000",
-    "terminal.background": "#00000000",
     "list.dropBackground": "#ffffff15",
     "tree.dropBackground": "#ffffff15",
-    "sideBarStickyScroll.background": "#1a1a1a",
-    "sideBarSectionHeader.foreground": "#ffffffbf",
-    "sideBarSectionHeader.background": "#0000005c",
-    "notificationCenterHeader.background": "#DA493A",
-    "notifications.background": "#DA493A",
-    "notifications.foreground" : "#ffffff",
-    "notifications.border": "#DA493A",
     "badge.background": "#DA493A",
     "badge.foreground": "#ffffff",
     "activityBarBadge.background": "#DA493A",
     "activityBarBadge.foreground": "#ffffff",
-    "tab.activeBorderTop": "#DA493A",
-    "tab.activeBorder": "#DA493A",
-    "foreground": "#ffffff"
+    "terminal.background": "#00000000"
+  },
+  "[Cursor Dark]": {
+    "sideBarStickyScroll.background": "#1a1a1a",
+    "sideBarSectionHeader.foreground": "#ffffffbf",
+    "sideBarSectionHeader.background": "#0000005c"
   },
   "window.autoDetectColorScheme": true,
   "vscode_vibrancy.opacity": -1,
-  "vscode_vibrancy.theme": "Dark (Only Subbar)",
+  "vscode_vibrancy.theme": "Light (Only Subbar)",
   "redhat.telemetry.enabled": false,
   "workbench.navigationControl.enabled": false,
   "window.commandCenter": false,
@@ -208,5 +203,5 @@
   "workbench.colorTheme": "Cursor Dark",
   "workbench.productIconTheme": "macos-modern",
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.statusBar.visible": false
+  "workbench.statusBar.visible": false,
 }
