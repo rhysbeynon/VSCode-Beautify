@@ -3,7 +3,7 @@
 <img src="Features.png" width="75%" alt="VSCode Beautify Feature showcase">
 
 # VSCode-Beautify
-A MacOS styled VSCode config for native-like visuals and inline title bar build for, and working on, the latest version of vscode. Feel free to use any theme you want, I recommend Cursor Dark and Atom One Light.
+A MacOS styled VSCode theme for native-like visuals and inline title bar build for, and working on, the latest version of vscode. Feel free to use any theme you want, I recommend Cursor Dark and Atom One Light.
 
 | Description | Preview |
 |-------------|---------|
